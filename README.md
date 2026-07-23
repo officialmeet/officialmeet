@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🎓 **Where I'm at:** 2nd-Year College Student diving deep into **Data Science** and **Space Technology**.
+* 🎓 **Where I'm at:** 2nd-Year College Student diving deep into **Data Science** and want to be ins **Space Technology**.
 * 🎧 **Core Strengths:** Active listening, high-focus problem solving, and relentless practice.
 * 🔮 **The Goal:** Bridging the gap between raw data, engineering, and next-generation space exploration to build intelligent systems for the future.
 
