@@ -26,6 +26,6 @@
 ## 🌐 Connect With Me
 
 Let's collaborate on data science, space tech, or exciting engineering projects!
-* 📸 **Instagram:** [Your Instagram Account](https://www.instagram.com/mdvilx)
+* 📸 **Instagram:** [mdvilx](https://www.instagram.com/mdvilx)
 ---
 *Built by Meet Dave*
