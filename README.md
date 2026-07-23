@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Meet Dave!
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MDVelix+Network+19;Data+Science+%26+Space-Tech;2nd-Year+College+Student;Continuous+Learner)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Meet+Socialy;Data+Science+%26+Good-Listner;2nd-Year+College+Student;Continuous+Learner)](https://git.io/typing-svg)
 >>*Bridging the gap between raw data, low-level engineering, and next-generation space exploration.*
 ---
 
