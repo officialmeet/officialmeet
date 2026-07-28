@@ -27,6 +27,6 @@
 
 Let's collaborate on data science, space tech, or exciting engineering projects!
 * 📸 **Instagram:** [mdvilx](https://www.instagram.com/mdvilx)
-* 🌐 **Website:** [RESUME]( https://meetprofilo.netlify.app/](https://meetprofilo.netlify.app/ )
+* 🌐 **Website:** [RESUME](https://meetprofilo.netlify.app/)
 ---
 *Built by Meet Dave*
